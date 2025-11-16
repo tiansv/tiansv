@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://i.imgur.com/vP48PNE.jpeg" width="100%" />
-</p>
+
 
 <h1 align="center">🔥 Sebastian Sanchez Vasquez — Systems Engineering Student 🔥</h1>
 <h3 align="center">Walking the long road of backend, systems, and knowledge.</h3>
@@ -27,13 +25,7 @@
 📜 Database Systems  
 🌒 Backend Architecture & System Design  
 
----
 
-## 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiansv&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiansv&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
 ---
 
