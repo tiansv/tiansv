@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">🔥 Sebastian Sanchez Vasquez — Systems Engineering Student 🔥</h1>
+<h1 align="center"> Sebastian Sanchez Vasquez — Systems Engineering Student </h1>
 <h3 align="center">Walking the long road of backend, systems, and knowledge.</h3>
 
 ---
