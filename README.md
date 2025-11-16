@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**tiansv/tiansv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.imgur.com/vP48PNE.jpeg" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">🔥 Sebastian Sanchez Vasquez — Systems Engineering Student 🔥</h1>
+<h3 align="center">Walking the long road of backend, systems, and knowledge.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧩 About Me
+- 🎓 Systems Engineering student at **Pontificia Universidad Javeriana** (since 2022)  
+- ⚙️ Interested in **C++**, **Databases**, **Distributed Systems**, **Backend Development**, and **Operating Systems**  
+- 📚 Growing through challenges — algorithms, data structures, and real-world problem solving  
+- 🛠️ Building projects to strengthen fundamentals and explore system design  
+- 🚀 Drawn to tech entrepreneurship and creating meaningful software  
+
+---
+
+## 🛠️ Tech Arsenal
+**Languages:**  
+🗡️ C++ · Java · SQL  
+
+**Core Areas:**  
+🛡️ Algorithms & Data Structures  
+🔥 Operating Systems  
+📜 Database Systems  
+🌒 Backend Architecture & System Design  
+
+---
+
+## 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tiansv&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiansv&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🌐 Find Me in the Realm
+- LinkedIn: https://www.linkedin.com/in/sebastian-sanchez-vasquez-434a91226  
+- GitHub: https://github.com/tiansv  
+
+<p align="center">
+  <i>"A journey of a thousand commits begins with a single push."</i>
+</p>
